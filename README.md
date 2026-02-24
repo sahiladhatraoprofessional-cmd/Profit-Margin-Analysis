@@ -1,13 +1,13 @@
 # Profit-Margin-Analysis
 
-* Project Title
+# Project Title
 Revenue Growth vs Profitability Decline Analysis
 
-*  Problem Statement
+#  Problem Statement
 Revenue was increasing over time, but overall profit margin was declining.
 The objective was to identify the root cause behind margin erosion.
 
-* Tools Used
+# Tools Used
 
 SQL (Data exploration & aggregation)
 
@@ -15,7 +15,7 @@ Python (Correlation & statistical validation)
 
 Power BI (Dashboard & visualization)
 
-* Project Workflow
+# Project Workflow
 Step 1 – SQL Analysis
 
 Calculated monthly revenue and profit margin
@@ -40,7 +40,7 @@ Visualized revenue vs margin trends
 
 Highlighted root cause using scatter plots
 
-* Key Findings
+# Key Findings
 
 Revenue increased consistently
 
@@ -52,7 +52,7 @@ Category mix shift contributed partially
 
 Shipping cost had minimal impact
 
-* Business Recommendations
+# Business Recommendations
 
 Reduce excessive discounting
 
