@@ -1,8 +1,7 @@
 # Profit-Margin-Analysis
 
 # DashBoard 
-https://app.powerbi.com/view?r=eyJrIjoiZjczMjUyOWMtNmU1Yy00OTlhLTgzZjktNTYyZmNlMDk1N2JmIiwidCI6Ijc1OTdjNzc3LThjZDktNDI5Ni04MmUyLWU2NzQ4NjMxNjRiNiJ9
-# Project Title
+https://app.powerbi.com/view?r=eyJrIjoiODEwYmQzM2EtNDFiYi00ZmQ2LTliODAtN2QzNjUwYmFiYTc4IiwidCI6Ijc1OTdjNzc3LThjZDktNDI5Ni04MmUyLWU2NzQ4NjMxNjRiNiJ9
 
 Revenue Growth vs Profitability Decline Analysis
 
@@ -51,15 +50,9 @@ Profit margin declined over time
 
 Discount showed strong negative correlation with profit (-0.55)
 
-Category mix shift contributed partially
-
-Shipping cost had minimal impact
-
 # Business Recommendations
 
 Reduce excessive discounting
-
-Monitor category revenue mix
 
 Set discount threshold limits
 
